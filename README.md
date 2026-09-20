@@ -22,7 +22,7 @@ patterns and trends — filterable by gender, category, and shipping type.
 
 ## Dashboard Preview
 
-![Customer Behavior Dashboard](screenshots/Dashboard_ss.png)
+![Customer Behavior Dashboard](Dashboard_ss.png)
 
 The dashboard includes:
 - KPI cards for Number of Customers, Average Purchase Amount, and Average Review Rating
